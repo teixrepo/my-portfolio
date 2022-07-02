@@ -1,0 +1,39 @@
+# Site settings
+name: Tárcio Teixeira
+title: Tárcio Teixeira | Backend Developer
+description: Desenvolvedor backend focado em Javascript & Node.Js
+url: https://teixtarcio.github.io/my-portfolio
+baseurl: ''
+email: bytarcio@gmail.com
+cover: https://teixtarcio.github.io/my-portfolio/img/og.png
+logo: https://teixtarcio.github.io/my-portfolio/img/emojis/technologist.png
+resume: https://teixtarcio.github.io/my-portfolio/resume.pdf
+social:
+  - title: instagram
+    url: https://instagram.com/teixtarcio
+  - title: github
+    url: https://github.com/teixtarcio
+  - title: linkedin
+    url: https://www.linkedin.com/in/teixtarcio
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

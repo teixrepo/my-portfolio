@@ -1,0 +1,17 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS
+
+frameworks:
+  - item: Node.Js
+  - item: React
+
+tools:
+  - item: Visual Studio Code
+  - item: Chrome DevTools
+  - item: Git & Github
+
+design:
+  - item: Adobe XD
+  - item: Adobe Photoshop

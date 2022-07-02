@@ -1,0 +1,19 @@
+- name: Spotify Profile
+  url: https://github.com/teixtarcio/spotify-profile
+  code: https://github.com/teixtarcio/spotify-profile
+  description: Uma aplicação web para visualizar dados personalizados do Spotiy 🎧
+  used:
+    - thing: JavaScript
+    - thing: Node.Js
+    - thing: React
+    - thing: Express
+    - thing: Spotify API
+
+- name: NBA Stats
+  url: https://github.com/teixtarcio/nba-stats
+  code: https://github.com/teixtarcio/nba-stats
+  description: Estatísticas de jogadores e times do maior torneio de basquete do mundo 🏀
+  used:
+    - thing: JavaScript
+    - thing: Node.Js
+    - thing: NBA.com API
