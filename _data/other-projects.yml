@@ -3,8 +3,7 @@
   code: https://github.com/teixtarcio/spotify-profile
   description: Uma aplicação web para visualizar dados personalizados do Spotiy 🎧
   used:
-    - thing: JavaScript
-    - thing: Node.Js
+    - thing: Ruby on Rails
     - thing: React
     - thing: Express
     - thing: Spotify API
@@ -14,6 +13,5 @@
   code: https://github.com/teixtarcio/nba-stats
   description: Estatísticas de jogadores e times do maior torneio de basquete do mundo 🏀
   used:
-    - thing: JavaScript
-    - thing: Node.Js
+    - thing: Ruby on Rails
     - thing: NBA.com API
