@@ -1,17 +1,13 @@
-- name: Spotify Profile
-  url: https://github.com/teixtarcio/spotify-profile
-  code: https://github.com/teixtarcio/spotify-profile
-  description: Uma aplicação web para visualizar dados personalizados do Spotiy 🎧
+- name: Prodigy: Ecommerce Platform
+  url: https://github.com/teixtarcio/prodigy-ecommerce
+  code: https://github.com/teixtarcio/prodigy-ecommerce
+  description: Plataforma de Ecommerce para venda de roupas, acessórios e outros 🛍️
   used:
     - thing: Ruby on Rails
     - thing: React
-    - thing: Express
-    - thing: Spotify API
 
-- name: NBA Stats
-  url: https://github.com/teixtarcio/nba-stats
-  code: https://github.com/teixtarcio/nba-stats
-  description: Estatísticas de jogadores e times do maior torneio de basquete do mundo 🏀
+- name: Symphonia
+  url: https://github.com/teixtarcio
+  code: https://github.com/teixtarcio
+  description: Loading... 🎧
   used:
-    - thing: Ruby on Rails
-    - thing: NBA.com API
