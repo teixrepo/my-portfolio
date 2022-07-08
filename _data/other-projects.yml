@@ -11,3 +11,5 @@
   code: https://github.com/teixtarcio
   description: Loading... 🎧
   used:
+    - thing: Ruby on Rails
+    - thing: Spotify API
