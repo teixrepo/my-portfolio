@@ -1,15 +1,15 @@
 - name: Prodigy - Ecommerce Platform 🛍️
   url: https://github.com/teixtarcio/prodigy-ecommerce
   code: https://github.com/teixtarcio/prodigy-ecommerce
-  description: Plataforma de Ecommerce para venda de roupas, acessórios e outros
+  description: Plataforma de Ecommerce para venda de roupas, acessórios e outros.
   used:
     - thing: Ruby on Rails
     - thing: React
 
-- name: Symphonia
+- name: Symphonia 🎧
   url: https://github.com/teixtarcio
   code: https://github.com/teixtarcio
-  description: Loading... 🎧
+  description: Loading...
   used:
     - thing: Ruby on Rails
     - thing: React
